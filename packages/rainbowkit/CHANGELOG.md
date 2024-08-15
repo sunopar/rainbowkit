@@ -1,5 +1,11 @@
 # @rainbow-me/rainbowkit
 
+## 2.1.5
+
+### Patch Changes
+
+- 675f9dd: Add icon for Gnosis Chain
+
 ## 2.1.4
 
 ### Patch Changes
